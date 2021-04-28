@@ -3,3 +3,6 @@ Unit 1
 variables, data tyes
 if statement 
 switch
+
+add more lines
+extra lines
